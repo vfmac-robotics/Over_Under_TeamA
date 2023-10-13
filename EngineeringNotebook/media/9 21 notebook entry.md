@@ -1,1 +1,0 @@
-﻿We're starting to see how the robot is turning out. We have both of our main supports for the robot up. The upper half of the Holonomic bot is  getting tedious with the use of nylon nuts so we switched to regular nuts to get the job done quicker to sacrifice build quality. We'll go back eventually and make sure everything is tight once the build is finished.
