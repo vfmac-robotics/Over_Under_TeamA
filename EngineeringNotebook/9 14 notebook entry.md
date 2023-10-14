@@ -1,4 +1,6 @@
 ﻿Today we didn't work on the robot too much but instead learnt our digital notebook materials and worked on our drawing skills on excalidraw and learn so basic markdown commands.
+
+
 ![ ](https://cdn.discordapp.com/attachments/809615958389555210/1160285297704173568/holonomic_excalidraw.png?ex=65341ae4&is=6521a5e4&hm=839ff802f668f1e3e9fa652f4bd7e9fd6090251461741fb9ad2e1b349c5bec25&)
 
 * "_this_=italics
@@ -13,6 +15,6 @@
 * To create an unordered list an asterisk then a space * flour 
 * )For an ordered list: 
 1. Boil the water
-2. Stick your finger into it. 
+2. Put your pasta into it. 
 
 
