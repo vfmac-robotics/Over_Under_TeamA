@@ -1,6 +1,6 @@
 ### Jefferson
 #### Bio
- My First name is Dylan and I am a senior at Valley Forge Military Academy. I live in Howell NJ and i want to major in architecture after high school 
+My nickname is Dj and I am a senior at Valley Forge Military Academy. I live in Howell NJ and i want to major in architecture after high school 
 
 #### Hobbies
 * Car racing
