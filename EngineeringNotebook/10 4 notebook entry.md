@@ -10,4 +10,6 @@
 * The resting position of the _scoop_ is dragging.
 * **Solution**: We moved the wheel that was **SUPPOSED** to limit its range of motion but now the range of motion was limited too much. Now we had to adjust it somewhere in the middle which solved our positioning issue. 
 
-<img src="media/finalproduct1.jpeg" width="350" height="400">
+<p align="center">
+  <img width="460" height="300" src="finalproduct1.jpeg">
+</p>
