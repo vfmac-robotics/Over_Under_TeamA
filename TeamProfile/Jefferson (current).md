@@ -9,4 +9,4 @@ My nickname is Dj and I am a senior at Valley Forge Military Academy. I live in 
 * **Sim racing**
 #### Role
  I hope to be a good captain for the 2023-2024 school year and a better builder than I was before
-<img src="media/jeffbio1.jpeg" width="350" height="400">
+<img src="media/Jeffbio1.jpeg" width="350" height="400">
