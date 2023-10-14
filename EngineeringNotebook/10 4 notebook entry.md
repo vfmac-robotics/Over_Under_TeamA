@@ -10,4 +10,4 @@
 * The resting position of the triball grabber is dragging.
 * **Solution**: We moved the wheel that was **SUPPOSED** to limit its range of motion but now the range of motion was limited too much. Now we had to adjust it somewhere in the middle which solved our positioning issue. 
 
-![ ](https://cdn.discordapp.com/attachments/1160312586944925860/1160313726445047978/IMG_6820.JPG?ex=6534355d&is=6521c05d&hm=4b0d119e1bd8537a77938d0d6dec1aa87ff34c81debbee9cabcc9b32add658f9&)
+<img src="media/finalproduct1.jpeg" width="350" height="400">
