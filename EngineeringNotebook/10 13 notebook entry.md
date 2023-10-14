@@ -17,7 +17,7 @@
   <img src="media/ideaforstability.jpeg" width="350" height="400">
   
   We're thinking by leaving a little bit of space to let one triball edge go thru, we can get a better grip on the triball.
-#### Solution to fit the 18x18x18'
+#### Solution to fit the 18x18x18 restriction
 * Shorten the chasis supports on the arm from a 35 to either a 30 or 25
 * make the claw a 35 c channel to be able to get matchloads. 
 
