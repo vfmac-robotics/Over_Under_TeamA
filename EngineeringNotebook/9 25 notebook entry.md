@@ -2,4 +2,4 @@
 
 
 <img src="media/fieldinprogress.jpeg" width="350" height="400"> <img src="media/leftarm.jpeg" width="350" height="400">
-(experimenting with photo sizing)
+
