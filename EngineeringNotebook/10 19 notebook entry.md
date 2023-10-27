@@ -11,11 +11,11 @@
 
 (show image of the horizontal scooper) 
 
-(show image from 1:30)
+ <img src="media/horizontalleitner.jpeg" width="425" height="350">
 
 Deciding not to take another risk to sacrifice practice time, we chose to get rid of the 35 arm support in exchange for a 25 rail. Hopefully with an upgrade like this,  it will improve the sturdiness of the robot and the contact points of the rubber flaps of the scooper
 
-insert 3:29 photo 
+ <img src="media/armbar.jpeg" width="350" height="400">
 
 An hour later, when all the supports were swapped, we fell into instant relief. One problem was solved and another was created though. Our resting position was compromised in the progress; It was too high to grab a triball. 
 ### Trial and error toward the solution:
