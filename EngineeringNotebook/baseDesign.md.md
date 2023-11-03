@@ -10,7 +10,8 @@ Add a drawing of the base concept (Create drawing using excalidraw and save the 
 * **Cons**
 * it was a pain to code.
 * due to the protruding wheels, we had to sacrifice build space for it.
-* not the optimal drivetrain for this year's compettion 
+* not the optimal drivetrain for this year's compettion
+* The wheels have an inaccurate strafe
 ### Programming for the Drive
 For this year we carried over the code for last year and merged some simple clawbot code into our holonomic code for it to command the top portion of our robot. 
 
