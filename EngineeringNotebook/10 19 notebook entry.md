@@ -11,7 +11,7 @@
 
 
 
- <img src="media/horizontalleitner.jpeg" width="425" height="350">
+ <img src="media/horizontalleitner.jpeg" width="425" height="350">          <img src="media/25arm.jpeg" width="425" height="350"> 
 
 Deciding not to take another risk to sacrifice practice time, we chose to get rid of the 35 arm support in exchange for a 25 rail. Hopefully with an upgrade like this,  it will improve the sturdiness of the robot and the contact points of the rubber flaps of the scooper
 
