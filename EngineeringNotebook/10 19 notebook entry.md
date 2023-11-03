@@ -9,7 +9,7 @@
 1. Scoop scrapes on the floor and damages field
 2. If horizontally mounted, the ability to cross the field due to the elevation bar
 
-(show image of the horizontal scooper) 
+
 
  <img src="media/horizontalleitner.jpeg" width="425" height="350">
 
