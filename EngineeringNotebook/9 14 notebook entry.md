@@ -4,6 +4,9 @@
 <p align="center">
   <img  src="https://cdn.discordapp.com/attachments/809615958389555210/1160285297704173568/holonomic_excalidraw.png?ex=65341ae4&is=6521a5e4&hm=839ff802f668f1e3e9fa652f4bd7e9fd6090251461741fb9ad2e1b349c5bec25&)">
 </p>
+
+                                                     Our base drawn in Excalidraw
+                                              
 * "_this_=italics
 
 * "**really**"     To do both you combine them like so, **_robotics_**
