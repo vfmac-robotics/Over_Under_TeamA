@@ -14,7 +14,7 @@ Only the back two wheels levitate off the ground.
 Create a hook like mechanism on the back of the scooper arm. It would need to be sturdy enough to handle the weight of the entire robot.
 
 
-![mockuphook](https://github.com/vfmac-robotics/Over_Under_TeamA/assets/145074938/f737cbc6-8b55-4384-a0a7-47d56fbf8879)
+![](mockuphook.jpeg)
 
 
 
