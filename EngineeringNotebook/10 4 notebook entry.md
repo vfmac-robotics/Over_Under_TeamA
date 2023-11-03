@@ -13,3 +13,4 @@
 <p align="center">
   <img width="350" height="400" src="media/finalproduct1.jpeg">
 </p>
+The wheel before we switched it out.
