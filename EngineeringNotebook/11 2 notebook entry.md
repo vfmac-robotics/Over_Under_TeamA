@@ -18,12 +18,10 @@ We switched the ports for motor 4 to port 21 with a significantly shorter cable.
 
 
 
- <p align="center">
-  <img width="350" height="400" src="media/wiredbase.jpg">
-</p>
+ <img src="media/wiredbase.jpeg" width="350" height="400">
 _The finished product of the base_
 
 ### The base
 We made some slight adjustments to the base layout as well. For one we trimmed the X-Drive's shafts so it's not sticking too far out of the robot. 
 
-![](media/leitnercutting.jpg)
+ <img src="media/leitnercutting.jpg" width="350" height="400">
