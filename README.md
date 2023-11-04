@@ -13,4 +13,11 @@ The game is that any team must get the most amount of points within a certain am
 ## Our Robot
 
 ### The Base
-Our X-drive holonomic base is a 4 motor base design that needscustom cut c channels. We were able to compartmentalize each arm making it easy to conduct maintenace each motor. We built it last year and we think it can still be competitive this year as well with a couple of [developments](EngineeringNotebook/baseDesign.md.md)
+Our X-drive holonomic base is a 4 motor base design that needed custom cut C channels. We were able to compartmentalize each arm making it easy to conduct maintenace each motor. We built it last year and we think it can still be competitive this year as well with a couple of [developments](EngineeringNotebook/baseDesign.md.md)
+
+
+![image](https://github.com/vfmac-robotics/Over_Under_TeamA/assets/145074938/791dab30-089b-4a26-b50b-c420b4723fd3)
+
+### The Arm and Scooper 
+Our whole entire upper half came from VEX's Striker bot. We adapted it to our base by adapting some parts in and
+
