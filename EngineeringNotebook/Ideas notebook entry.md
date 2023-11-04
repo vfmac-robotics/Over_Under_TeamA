@@ -19,3 +19,4 @@
 * Put retractable flaps and play goalie/ push the triballs in. (It wouldn't work due to our holonomic drive.)
 * Build a claw mechanism that goes on the back of the robot, (Team voted against it after the robot was built.)
 * Fill the loading zone of the scooper with polycarbonate. (The triball point rests a little below the loading zone and obstructing that would be catastrophic.)
+* Push robot underneath the net to try and push triballs through the side from the front of the net.(It would end up not being able to fit and move because of where our gears sit on our robot as well as the gaurdds for the pegs of the nets.)
