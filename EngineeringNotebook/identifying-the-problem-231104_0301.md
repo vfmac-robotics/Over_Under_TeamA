@@ -1,8 +1,8 @@
-# Identifying the Problem
 
-![Image from Identifying the Problem](https://app.milanote.com/media/p/images/1PxNYj1YuDQIem/oqR/adsfghjkl%3B%27.png?w=800)
 
-![Image from Identifying the Problem](https://app.milanote.com/media/p/images/1PxNYA1YuDQIen/nDf/a.png?w=800)
+
+
+
 
 ## **Identify the Problem**
 
@@ -10,7 +10,7 @@
 - **Autonomous Period** -- A time period during which robots operate and react only to sensor inputs and commands pre-programmed by the team into the robot's brain. 
 - **Driver Controlled Period** -- A time period during which drive team members to operate their robot via remote control.
 - **Scoring Points** – Each triball scored in the goal is worth 5 points. Each triball scored on an offensive zone is worth 2 points.
-- **Elevation Tiers -**
+- **Elevation Tiers** - When the round is in the closing stages. The teams will undergo a elevation end game, where the robot hangs off a pipe and scores points according to how high off the ground the wheels are.
 
 ## **Brainstorm, Diagram, or Prototype Solutions**
 
@@ -26,11 +26,9 @@
         - If we ever got access to pneumatic parts, we could point them at the ground to get boosted up above the gray PVC pipe like a jetpack
         - Create extendable flaps to play golie annd to also push some triballs out of the goal.
 
-![Image from Identifying the Problem](https://app.milanote.com/media/p/images/1PxNYY1YuDQIeq/1jq/d.png?w=800)
 
 ## Select Best Solution
 
-& Plan
 
 - **Plan** -- Our goal is to be able to get the triballs in our goal since we can't grab the triballs from the loading zone as efficiently as we hoped. At the end of the round, we plan to try and elevate our robot just a little to see if we can get extra points.
 - **Best Solution**
@@ -41,13 +39,9 @@
 
 
 
-![Image from Identifying the Problem](https://app.milanote.com/media/p/images/1PxNZ91YuDQIer/Ce1/e.png?w=800)
 
-## Test Solution
 
-![Image from Identifying the Problem](https://app.milanote.com/media/p/images/1PxNYI1YuDQIeo/qVK/b.png?w=800)
 
-![Image from Identifying the Problem](https://app.milanote.com/media/p/images/1PxNYQ1YuDQIep/bIy/c.png?w=800)
 
-![Image from Identifying the Problem](https://app.milanote.com/media/p/images/1PxNZt1YuDQIes/xkV/f.png?w=800)
+
 
