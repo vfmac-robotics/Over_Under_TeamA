@@ -11,7 +11,7 @@
 	MoveTowardNet()
 
 
-(show excalidraw that leitner is making)
+![](media/code_idea.png)
 
 * Add posts to the triball arms for elevation bar
 * Replace small omni wheels with big ones to be able to jump over the pvc pipe.(Stated in the rules that it wasn't allowed)
