@@ -21,3 +21,6 @@ Our whole entire upper half came from VEX's Striker bot. We adapted it to our ba
 
 ### Elevation Mechanism
 We have not found out a viable solution for the elevation idea. We had the idea for hooks but it just isn't sturdy enough. For this competetion we will be missing out on some points. This [entry](EngineeringNotebook/10_26_notebook_entry.md) contains our possible solution.
+
+
+For more details, please refer to our entrys in the notebook directory.
