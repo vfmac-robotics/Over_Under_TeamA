@@ -3,12 +3,12 @@
 
 	#### Explanation: 
 	We have trouble consistently getting the triballs into the goal with the scoop. So a possible solution would be to code a button to rotate the robot and automatically push the triball in.
-	#### rough sketch of coding:
-()OnButtonPress
-	ReleaseTriball()
-	RetractArm()
-	RotateDegrees(90)
-	MoveTowardNet()
+	#### Rough sketch of coding:
+* ()OnButtonPress
+* ReleaseTriball()
+* RetractArm()
+* RotateDegrees(90)
+* MoveTowardNet()
 
 
 ![](media/code_idea.png)
