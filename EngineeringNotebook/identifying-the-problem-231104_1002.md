@@ -1,8 +1,6 @@
 # Identifying the Problem
 
-![Image from Identifying the Problem](https://app.milanote.com/media/p/images/1PxNYj1YuDQIem/oqR/adsfghjkl%3B%27.png?w=800)
 
-![Image from Identifying the Problem](https://app.milanote.com/media/p/images/1PxNYA1YuDQIen/nDf/a.png?w=800)
 
 ## **1. Identify the Problem**
 
@@ -30,7 +28,6 @@
 
 ## 3. Select Best Solution
 
-& Plan
 
 - **Plan** -- Our goal is to be able to get the triballs in our goal since we can't grab the triballs from the loading zone as efficiently as we hoped. At the end of the round, we plan to try and elevate our robot just a little to see if we can get extra points.
 - **Best Solution**
@@ -52,17 +49,6 @@
 
 ## 5. Test Solution
 
-IDK
-
-what
-
-to 
-
-put
-
-here
-
-atm
 
 ## 6. Repeating the Design Process
 
@@ -74,8 +60,6 @@ atm
         - We tried to see what we would need to elevate our robot to the best of its ability, but the robot cannot lock yet so the robot will fall from gravity. (We found where the robot can grab the pole to lift and it worked, but would fall if not held there by the controller making it.)
         - On our robot base (X-drive) we tested so many times on whether or not the wheels would fit or even if the program would work right. The X-drive is definitely difficult to make, but it is rewarding to have it feeling pretty sturdy and well-made the following year.
 
-![Image from Identifying the Problem](https://app.milanote.com/media/p/images/1PxNYI1YuDQIeo/qVK/b.png?w=800)
 
-![Image from Identifying the Problem](https://app.milanote.com/media/p/images/1PxNYQ1YuDQIep/bIy/c.png?w=800)
 
 ![Image from Identifying the Problem](https://app.milanote.com/media/p/images/1PxNZt1YuDQIes/xkV/f.png?w=800)
