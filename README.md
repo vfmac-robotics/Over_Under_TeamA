@@ -8,7 +8,7 @@
 The game is that any team must get the most amount of points within a certain amount of time. The time frame is 15 sec of autonomous mode and 1 min & 45 sec of driver-controlled mode. Each triball scored in the goal is worth 5 points. Each triball scored on an offensive zone is worth 2 points.When the round is in the closing stages. The teams will undergo a elevation end game, where the robot hangs off a pipe and scores points according to how high off the ground the wheels are.
 
 ### Our Strategy
-* Our goal is to be able to get the triballs in our goal since we can't grab the triballs from the loading zone as efficiently as we hoped. At the end of the round, we plan to try and elevate our robot just a little to see if we can get extra points. For a more [indept](EngineeringNotebook/identifying-the-problem-231104_0301.md) explaination, please visit our Identify the Problem entry.
+* Our goal is to be able to get the triballs in our goal since we can't grab the triballs from the loading zone as efficiently as we hoped. At the end of the round, we plan to try and elevate our robot just a little to see if we can get extra points. For a more [indept](EngineeringNotebook/identifying-the-problem-231104_1002.md) explaination, please visit our Identify the Problem entry.
 
 ## Our Robot
 
