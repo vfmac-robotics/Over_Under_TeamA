@@ -2,6 +2,8 @@
 Our X-drive holonomic base is a 4 motor base design that needscustom cut c channels. We were able to compartmentalize each arm making it easy to conduct maintenace each motor.
 
 
+![](media/holonomicexcalidraw.png)
+
 ## Decision Matrix
 ![](media/decisionmatrix.jpg)
 
