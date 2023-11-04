@@ -1,7 +1,12 @@
 ﻿### Holonomic Drive
 Our X-drive holonomic base is a 4 motor base design that needscustom cut c channels. We were able to compartmentalize each arm making it easy to conduct maintenace each motor.
-Add a drawing of the base concept (Create drawing using excalidraw and save the file as PNG)
+Add a drawing of the base concept 
 
+
+## Decision Matrix
+![](media/decisionmatrix.jpg)
+
+We made a Matrix for figuring out which base would be best for us. With the holonomic base being already built, we tallied up all the points with the holonomic base being graded for complexity on a (.5) scale because it was previously built and saved a lot of time.
 ### _Pros_ and _Cons_ of the X-Drive
 * **Pros**
 * Maneuverability
