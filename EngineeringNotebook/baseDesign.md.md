@@ -1,4 +1,4 @@
-﻿### Holonomic Drive
+### Holonomic Drive
 Our X-drive holonomic base is a 4 motor base design that needed custom cut c channels. We were able to compartmentalize each arm making it easy to conduct maintenace each motor.
 
 
@@ -19,7 +19,7 @@ We made a Matrix for figuring out which base would be best for us. With the holo
 * not the optimal drivetrain for this year's compettion
 * The wheels have an inaccurate strafe
 ### Programming for the Drive
-For this year we carried over the code for last year and merged some simple clawbot code into our holonomic code for it to command the top portion of our robot. 
+For this year we carried over the code for last year and merged some simple clawbot code into our holonomic code for it to command the top portion of our robot. Our code for this drive can be found in our [base design](
 
 ### challenges experienced with this drive
 To perfect it over the course of two years, we went thru quite a few changes. Due to just having the parts for three clawbot kits and a c-channel kit, we had to work with what we had at first. We had to use 4 different variants of parts to connect the joints of the _X-Drive_. Our first one was from Home Depot that was used just to understand the concept of the build. We then used a Vex Pro part that we returned because it was too big on each corner and was rubbing against the wheel. We then swapped to the [gussets](https://www.vexrobotics.com/gussets.html) (version 1) before realizing we had to bend just to fit the the outside of base snug. We then switched them out for the other set of gussets that go on top of the joints of the robot and it was a perfect fit. After the first competition we had some minor flaws and decided to switch to the mini _holonomic_ wheels meaning we had to switch the channel joints to accommodate the smaller wheels. Towards the end of the last season once we finished competing, We took apart the base and  to [compartmentalize](https://cdn.discordapp.com/attachments/1160312586944925860/1162755950407589939/IMG_3280.JPG?ex=653d17dd&is=652aa2dd&hm=76ec7e29786e3e1cf29bf987a2ab720c69cc3f8b55b67ec441e7753d4f5789a0&) the robot so if we wanted to do maintenance we wouldn't have to take apart the whole thing but just one of it. The latest challenge was trying to fit the striker bot top half onto the bottom half of the _X-Drive_ bot.
