@@ -24,7 +24,10 @@ If we were to switch from X drive to tank drive, we would need to plan out motor
 Our scoring mechanism was scrapped mid competition and for our next one we want to prevent that. 
 
 ![](media/decisionmatrixoffense.jpg)
-(the least amount of tally marks is the best)
+
+
+
+_(the least amount of tally marks is the best)_
 
 
 Here, we created a decision matrix for deciding which part would be best to build to build a rubber band intake. We are going to use a rubber band intake that doubles as a matchloader. We're either going to use our elevation arm or a piece of polycarbonate to drop the triball into the robot then with the rubber band intake, it'll shoot it out across the field towards to the other teams side, then we reverse and use the backend to push all the triballs into the opponents side and ram them into the goal.  
